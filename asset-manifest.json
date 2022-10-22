@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-mern-stuck/static/css/main.7826eafd.css",
+    "main.js": "/portfolio-mern-stuck/static/js/main.e4e9ab42.js",
+    "index.html": "/portfolio-mern-stuck/index.html",
+    "main.7826eafd.css.map": "/portfolio-mern-stuck/static/css/main.7826eafd.css.map",
+    "main.e4e9ab42.js.map": "/portfolio-mern-stuck/static/js/main.e4e9ab42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7826eafd.css",
+    "static/js/main.e4e9ab42.js"
+  ]
+}
