@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-mern-stack",
   "version": "0.1.0",
-  "homepage": "https://niseme.github.io/portfolio-mern",
+  "homepage": "https://niseme.github.io/my-portfolio-mern",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
